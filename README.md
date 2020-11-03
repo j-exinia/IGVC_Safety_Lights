@@ -22,9 +22,6 @@
 * [TPS77733DR](http://www.ti.com/lit/ds/symlink/tps777.pdf)
 
 
-## Images
-<img src="Images/FrontIRL.jpg" width ="250">, <img src="Images/BackIRL.jpg" width ="250">
-
 ## Designers
 
 * **Jorge Exinia** - *PCB design* - [j-exinia](https://github.com/j-exinia)
