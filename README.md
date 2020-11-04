@@ -4,7 +4,11 @@
 ## Peripherals 
 
 
-### Microprocessor 
+### Microprocessor
+
+* [] ()
+
+### LEDs
 
 * [12 Volts LEDs](https://www.mouser.com/datasheet/2/90/dsXPG3-1509242.pdf)
 
