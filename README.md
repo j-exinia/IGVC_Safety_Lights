@@ -4,7 +4,11 @@
 ## Peripherals 
 
 
-### Microprocessor 
+### Microprocessor
+
+* [] ()
+
+### LEDs
 
 * [12 Volts LEDs](https://www.mouser.com/datasheet/2/90/dsXPG3-1509242.pdf)
 
@@ -12,15 +16,9 @@
 
 * [LDO](https://www.ti.com/lit/ds/symlink/reg1117.pdf?ts=1604435598591)
 
-### USB to UART
+### Micro-Fit 3.0 Vertical Header
 
-* [FT230XS-R](https://www.mouser.com/datasheet/2/163/DS_FT230X-5395.pdf)
-
-
-### Voltage Regulator
-
-* [TPS77733DR](http://www.ti.com/lit/ds/symlink/tps777.pdf)
-
+* [Molex](https://www.mouser.com/datasheet/2/276/0430450612_PCB_HEADERS-142990.pdf)
 
 ## Designers
 
