@@ -6,7 +6,7 @@
 
 ### Microprocessor
 
-* [ARM Cortex-M4] (https://www.mouser.com/ProductDetail/STMicroelectronics/STM32F334K8T6TR/?qs=pBOFM1sAujtfWTgxH7%252Bh1w%3D%3D)
+* [ARM Cortex-M4](https://www.mouser.com/ProductDetail/STMicroelectronics/STM32F334K8T6TR/?qs=pBOFM1sAujtfWTgxH7%252Bh1w%3D%3D)
 
 ### LEDs
 
