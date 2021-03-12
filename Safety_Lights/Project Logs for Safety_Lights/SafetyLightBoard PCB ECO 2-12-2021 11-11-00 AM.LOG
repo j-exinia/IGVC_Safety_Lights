@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PA15 Pin=P5-4
+Removed Pin From Net: NetName=GND Pin=P5-8
+Removed Pin From Net: NetName=BOOT1 Pin=U1-26
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X8 New Footprint=HDR2X3
+Change Component Comment : Designator=P4 Old Comment=Header 8H New Comment=MHDR2X3
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=NRST Pin=P4-2
+Added Pin To Net: NetName=PA13 Pin=P4-3
+Added Pin To Net: NetName=PA14 Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=PB7 Pin=U1-13
+Added Pin To Net: NetName=BOOT1 Pin=U1-27
+Change Net Name : Old Net Name=NetP6_3 New Net Name=NetP5_3
+Added Pin To Net: NetName=PB3 Pin=P4-4
+Added Pin To Net: NetName=PB3 Pin=U1-26
+Added Net: Name=PB3

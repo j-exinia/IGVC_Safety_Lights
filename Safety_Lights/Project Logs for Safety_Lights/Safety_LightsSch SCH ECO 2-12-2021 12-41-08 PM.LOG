@@ -1,0 +1,2 @@
+Change Pin Designator/Name:  Old Designator=U1-2 Old Name=PF0/OSC_IN New Designator =PF1/OSC_OUT New Name=3
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=PF1/OSC_OUT New Designator =PF0/OSC_IN New Name=2
