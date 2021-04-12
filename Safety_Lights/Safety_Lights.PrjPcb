@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -32,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=FB6C2CFF-B40F-4D3B-A3A2-373B6275DA02
+VaultGUID=3F41A1B8-DAA5-4DE0-81F4-C372B3E986AE
+ReleaseVaultName=OU Competitive Robotics Club
+ItemGUID=FB6C2CFF-B40F-4D3B-A3A2-373B6275DA02
 IncludeDesignInRelease=0
 
 [Preferences]
